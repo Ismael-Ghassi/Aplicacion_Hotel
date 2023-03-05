@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: bd.AccesoBDTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.027 sec <<< FAILURE!
+testInsertarReserva(bd.AccesoBDTest)  Time elapsed: 0.009 sec  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "bd.AccesoBD.insertarReserva(String, String, String, String, int)" because "instance" is null
+	at bd.AccesoBDTest.testInsertarReserva(AccesoBDTest.java:47)
+

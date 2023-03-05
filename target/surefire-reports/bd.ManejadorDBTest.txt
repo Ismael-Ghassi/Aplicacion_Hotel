@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: bd.ManejadorDBTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.464 sec <<< FAILURE!
+testConsulta(bd.ManejadorDBTest)  Time elapsed: 0.455 sec  <<< FAILURE!
+junit.framework.AssertionFailedError: expected same:<Result set representing update count of 3> was not:<Result set representing update count of 3>
+	at junit.framework.Assert.fail(Assert.java:47)
+	at junit.framework.Assert.failNotSame(Assert.java:276)
+	at junit.framework.Assert.assertSame(Assert.java:239)
+	at junit.framework.Assert.assertSame(Assert.java:246)
+	at bd.ManejadorDBTest.testConsulta(ManejadorDBTest.java:64)
+
