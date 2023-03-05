@@ -6,3 +6,5 @@ La aplicacion cuenta con fondo de pantalla, barra de tareas, instalador, imagene
 
 La base tabla "hoteles" de la base de datos cuenta con una columna que guarda la dirección web de una imagen.
 Esa dirección web será interpretada como imagen en tiempo de ejecución por la aplicación.
+
+Para visuañizar y conocer en mas profundidad el programa consultar el PDF "USER MANUAL".
